@@ -1,0 +1,3 @@
+- https://www.udemy.com/course/technical-writing-a-quick-start-to-software-documentation/
+- https://developers.google.com/tech-writing/announcements
+- https://www.skillshare.com/en/classes/Technical-Writing-The-Writing-Process/1396641486
